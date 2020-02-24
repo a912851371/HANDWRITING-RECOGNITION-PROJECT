@@ -1,1 +1,2 @@
-The Video link is following:https://github.com/a912851371/HANDWRITING-RECOGNITION-PROJECT/blob/master/mnist%20demonstrate.mp4
+# Introduction
+This project is based on python, compiling on PyCharm. 
