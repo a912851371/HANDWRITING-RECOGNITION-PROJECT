@@ -33,3 +33,4 @@ Run `main` function and wait for the port appearing. Then click the port and ope
 Use your mouse to draw a digit in the canvas.
 
 # Demo
+![Demo](https://github.com/a912851371/HANDWRITING-RECOGNITION-PROJECT/blob/master/Demo.gif)
