@@ -34,3 +34,6 @@ Use your mouse to draw a digit in the canvas.
 
 # Demo
 ![Demo](https://github.com/a912851371/HANDWRITING-RECOGNITION-PROJECT/blob/master/Demo.gif)
+
+# Acknowledgement
+At last, thanks a lot for supervisor Dr.Zhang Fan’s great patient leadership and help.
